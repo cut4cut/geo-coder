@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/geo-coder/precache-manifest.9f4b4fdf90992283228cdfcad91791fe.js"
+  "/geo-coder/precache-manifest.80c33d8e067f99c6ccfcd9e850dcd7da.js"
 );
 
 workbox.clientsClaim();
